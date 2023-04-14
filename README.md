@@ -1,4 +1,4 @@
-# Projetos Gerenciamentos de Eventos:
+# Projetos -- Gerenciamentos de Eventos:
 
 Aplicação Python com framework Django para gerenciamento de Eventos e etc..
 
