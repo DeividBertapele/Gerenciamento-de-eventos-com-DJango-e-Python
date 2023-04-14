@@ -24,7 +24,7 @@ O projeto é um site para criar eventos, onde é possível criar, editar e delet
     - Gerar certificados
 
 
-
+------------------------------------------------------------------------------
 
 O usuário poderá criar login e a senha para publicar eventos e após a conclusão de evento , poderá gerar o certificado.
 
