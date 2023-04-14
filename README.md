@@ -1,4 +1,4 @@
-# Projetos de Eventos 
+# Projetos Gerenciamentos de Eventos:
 
 Aplicação Python com framework Django para gerenciamento de Eventos e etc..
 
@@ -11,7 +11,7 @@ O projeto é um site para criar eventos, onde é possível criar, editar e delet
 - eventos
 - cliente
 
--------------------------------------------------------
+-----------------------------------------------------------------------------
 
 - Evento:
     - Gerenciar evento
